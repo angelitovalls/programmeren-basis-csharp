@@ -7,7 +7,7 @@ namespace opdracht2
         static void Main(string[] args)
         {
             string één = "Welkom bij C#!";
-            //Dit psat het best bij een string ,omdat het een tekst is.
+            //Dit past het best bij een string ,omdat het een tekst is.
             short twee = 260;
             //Dit past het best bij een short ,omdat het een getal is en het tussen -32.768 en 32.767 ligt.
             short drie = -56;
