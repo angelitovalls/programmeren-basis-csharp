@@ -4,6 +4,8 @@
   <Project Path="opdracht4/opdracht4.csproj" Id="9c62fbae-49c5-46e6-b87e-09bcfe3be702" />
   <Project Path="opdracht5/opdracht5.csproj" Id="b76d3b9a-1ccf-4045-ab68-1bd34b70b4da" />
   <Project Path="opdracht6/opdracht6.csproj" Id="db00b7a7-fd6d-40fa-b132-014c3135802a" />
+  <Project Path="opdracht7/opdracht7.csproj" Id="b4580219-495f-4c57-992b-da1f3a8627f2" />
+  <Project Path="opdracht8/opdracht8.csproj" Id="5493b75d-f45b-427d-b0dd-25767f8154f9" />
   <Project Path="programmeren-basis-csharp/programmeren-basis-csharp..csproj" />
   <Project Path="òpdracht1/òpdracht1.csproj" />
 </Solution>
