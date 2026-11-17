@@ -17,7 +17,7 @@
                     
                     break;
                 case 3:
-                    Console.WriteLine("Large kost ¶3,00");
+                    Console.WriteLine("Large kost 3,00");
                     break;
                 default:
                     Console.WriteLine("Ongeldige keuze");

@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace opdracht2
+﻿namespace opdracht2
 {
     internal class Program
     {
