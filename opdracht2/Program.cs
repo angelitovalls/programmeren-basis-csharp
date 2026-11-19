@@ -13,7 +13,7 @@
             double vier = 2001.99;
             //Dit past het best bij een double ,omdat het een kommagetal is.
             string vijf = "k1ngd0m";
-            //Dit past het best bij een string ,omdat het een tekst is.
+            //Dit past het best bij een string ,omdat het een tekst is
 
             Console.WriteLine($"{één}");
             Console.WriteLine($"{twee}");
