@@ -1,13 +1,13 @@
 <Solution>
   <Project Path="opdracht10/opdracht10.csproj" Id="b309abb0-22d7-4870-a079-ebe56debb6a6" />
-  <Project Path="opdracht2/opdracht2.csproj" Id="531ed96d-a988-4de2-9c49-a1c459fd3ff5" />
-  <Project Path="opdracht3/opdracht3.csproj" Id="8acaf63c-53f6-4be5-9262-747a3bc82ea0" />
-  <Project Path="opdracht4/opdracht4.csproj" Id="9c62fbae-49c5-46e6-b87e-09bcfe3be702" />
-  <Project Path="opdracht5/opdracht5.csproj" Id="b76d3b9a-1ccf-4045-ab68-1bd34b70b4da" />
-  <Project Path="opdracht6/opdracht6.csproj" Id="db00b7a7-fd6d-40fa-b132-014c3135802a" />
-  <Project Path="opdracht7/opdracht7.csproj" Id="b4580219-495f-4c57-992b-da1f3a8627f2" />
-  <Project Path="opdracht8/opdracht8.csproj" Id="5493b75d-f45b-427d-b0dd-25767f8154f9" />
-  <Project Path="opdracht9/opdracht9.csproj" Id="d094b7f3-8a39-4c75-8b9f-88c5b644eb0f" />
+  <Project Path="opdracht2/opdracht02.csproj" Id="531ed96d-a988-4de2-9c49-a1c459fd3ff5" />
+  <Project Path="opdracht3/opdracht03.csproj" Id="8acaf63c-53f6-4be5-9262-747a3bc82ea0" />
+  <Project Path="opdracht4/opdracht04.csproj" Id="9c62fbae-49c5-46e6-b87e-09bcfe3be702" />
+  <Project Path="opdracht5/opdracht05.csproj" Id="b76d3b9a-1ccf-4045-ab68-1bd34b70b4da" />
+  <Project Path="opdracht6/opdracht06.csproj" Id="db00b7a7-fd6d-40fa-b132-014c3135802a" />
+  <Project Path="opdracht7/opdracht07.csproj" Id="b4580219-495f-4c57-992b-da1f3a8627f2" />
+  <Project Path="opdracht8/opdracht08.csproj" Id="5493b75d-f45b-427d-b0dd-25767f8154f9" />
+  <Project Path="opdracht9/opdracht09.csproj" Id="d094b7f3-8a39-4c75-8b9f-88c5b644eb0f" />
   <Project Path="programmeren-basis-csharp/programmeren-basis-csharp..csproj" />
   <Project Path="òpdracht1/òpdracht1.csproj" />
 </Solution>
