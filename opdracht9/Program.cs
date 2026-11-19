@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Kies (1) small, (2) medium of (3) large:");
-            int keuze = int.Parse(Console.ReadLine());          
+            +int keuze = int.Parse(Console.ReadLine());          
             switch (keuze)
             {
                 case 1:
